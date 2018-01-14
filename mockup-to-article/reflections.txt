@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+I've learned how to ask for help when something is not working. Also how to look up elements on MDN when I don't know the syntax.
+
+The easy part is passing the quiz and being able to write the code in the text editor.
+
+It's been difficult trying to figure out how to use a certain feature and make my workflow easier when working in the code.
+
+I used the problem solving strategies from the first project to help me become a better web developer and to seek out answers with the resources that are available. The Slack channel has been a valuable support tool in overcoming some of the problems I encounter when loading my code in the browser or running the file through the Udacity Feedback extension. 
