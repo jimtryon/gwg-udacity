@@ -1,1 +1,21 @@
 /* add your CSS here */
+.interesting-fact {
+    font-style: italic;
+}
+
+.item {
+    font-weight: bold;
+}
+
+li {
+    list-style-type: none;
+}
+
+.main, .information {
+    border: 0.5px solid darkgrey;
+    padding-top: 10px;
+}
+
+img {
+    padding-bottom: 10px;
+}
