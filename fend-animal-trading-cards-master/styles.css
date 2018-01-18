@@ -12,7 +12,7 @@ li {
 }
 
 .main {
-    width: 760px;
+    width: 360px;
 }
 
 .main, .information {
@@ -22,4 +22,5 @@ li {
 
 img {
     padding-bottom: 10px;
+    width: 300px;
 }
