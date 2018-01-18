@@ -17,10 +17,8 @@ li {
 
 .main, .information {
     border: 0.5px solid darkgrey;
-    padding-top: 10px;
 }
 
 img {
-    padding-bottom: 10px;
     width: 300px;
 }
