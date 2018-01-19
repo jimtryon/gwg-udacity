@@ -1,6 +1,8 @@
 /* add your CSS here */
 .card-interesting-fact {
     font-style: italic;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .item {
