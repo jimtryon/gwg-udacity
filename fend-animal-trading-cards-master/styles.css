@@ -11,14 +11,10 @@ li {
     list-style-type: none;
 }
 
-.main {
+.main-container {
     width: 360px;
     padding-left: 10px;
     padding-right: 10px;
-}
-
-.main, .information {
-    border: 0.5px solid darkgrey;
 }
 
 img {
